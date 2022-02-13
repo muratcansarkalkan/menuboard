@@ -19,3 +19,5 @@ Menuboard Challenge I prepared for OMMA Job Application.
   <li>İletişim sayfası hazırla</li>
   <li>Giriş ve çıkış animasyonlarını hazırla. Çıkıştan tekrar girişe</li>
 </ol>
+
+<a href="https://www.freepik.com/vectors/food">Food vector created by pikisuperstar - www.freepik.com</a>

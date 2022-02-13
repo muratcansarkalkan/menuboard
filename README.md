@@ -1,8 +1,8 @@
 # ommamenuboard
 Menuboard Challenge I prepared for OMMA Job Application.
 
-<ul>1 - Bir menü hazırlamalıyım (Basit bir yemek menüsü al)
-1.1 - Kullanacağım resimleri belirlemeliyim
+<ul>1 - Bir menü hazırlamalıyım (Basit bir yemek menüsü al)</ul>
+<ul>1.1 - Kullanacağım resimleri belirlemeliyim</ul>
 2 - Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)
 3 - Giriş sayfası hazırla
 4 - 3 ayrı sayfa hazırla

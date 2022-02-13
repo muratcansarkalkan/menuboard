@@ -9,7 +9,7 @@ li:before { content: counters(item, ".") " "; counter-increment: item }
   <li>Bir menü hazırlamalıyım (Basit bir yemek menüsü al)
     <ol>
       <li>Kullanacağım resimleri belirlemeliyim</li>
-    <ol>
+    </ol>
   </li>
   <li>Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)</li>
 3 - Giriş sayfası hazırla

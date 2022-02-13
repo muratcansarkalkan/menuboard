@@ -4,7 +4,7 @@ Menuboard Challenge I prepared for OMMA Job Application.
 <ol>
   <li>Bir menü hazırlamalıyım (Basit bir yemek menüsü al)
     <ol>
-    <li>1.1 - Kullanacağım resimleri belirlemeliyim</li>
+      <li>Kullanacağım resimleri belirlemeliyim</li>
     <ol>
   </li>
 2 - Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)

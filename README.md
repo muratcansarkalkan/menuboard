@@ -1,10 +1,6 @@
 # ommamenuboard
 Menuboard Challenge I prepared for OMMA Job Application.
 
-ol { counter-reset: item }
-li{ display: block }
-li:before { content: counters(item, ".") " "; counter-increment: item }
-
 <ol>
   <li>Bir menü hazırlamalıyım (Basit bir yemek menüsü al)
     <ol>
@@ -12,11 +8,14 @@ li:before { content: counters(item, ".") " "; counter-increment: item }
     </ol>
   </li>
   <li>Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)</li>
-3 - Giriş sayfası hazırla
-4 - 3 ayrı sayfa hazırla
-4.1 - Bir menü için spesifik (avantajlı menü) sayfa hazırla
-4.2 - İçecekler için spesifik (tüm içecekleri tek tek listele) sayfa hazırla
-4.3 - 3 parça için spesifik (ör. tavuk burger 40, et burger 45, domuz burger 43) sayfa hazırla
-5 - İletişim sayfası hazırla
-6 - Giriş ve çıkış animasyonlarını hazırla. Çıkıştan tekrar girişe
+  <li>Giriş sayfası hazırla</li>
+  <li>3 ayrı sayfa hazırla
+    <ol>
+      <li>Bir menü için spesifik (avantajlı menü) sayfa hazırla</li>
+      <li>İçecekler için spesifik (tüm içecekleri tek tek listele) sayfa hazırla</li>
+      <li>3 parça için spesifik (ör. tavuk burger 40, et burger 45, domuz burger 43) sayfa hazırla</li>
+    </ol>
+   </li>
+  <li>İletişim sayfası hazırla</li>
+  <li>Giriş ve çıkış animasyonlarını hazırla. Çıkıştan tekrar girişe</li>
 </ol>

@@ -1,13 +1,17 @@
 # ommamenuboard
 Menuboard Challenge I prepared for OMMA Job Application.
 
+ol { counter-reset: item }
+li{ display: block }
+li:before { content: counters(item, ".") " "; counter-increment: item }
+
 <ol>
   <li>Bir menü hazırlamalıyım (Basit bir yemek menüsü al)
     <ol>
       <li>Kullanacağım resimleri belirlemeliyim</li>
     <ol>
   </li>
-2 - Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)
+  <li>Bunu bir JSON datası içine yerleştirmeliyim (JSON datası nasıl hazırlanır)</li>
 3 - Giriş sayfası hazırla
 4 - 3 ayrı sayfa hazırla
 4.1 - Bir menü için spesifik (avantajlı menü) sayfa hazırla

@@ -1,5 +1,5 @@
-# ommamenuboard
-Menuboard Challenge I prepared for OMMA Job Application.
+# menuboard
+Menuboard Challenge I prepared for a job application.
 
 <ol>
   <li>Bir menü hazırlamalıyım (Basit bir yemek menüsü al)

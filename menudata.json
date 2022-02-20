@@ -1,0 +1,24 @@
+{
+    "product": {
+        "Ana Yemek": [
+            {"name":"Tavuk Burger", "price":38},
+            {"name":"Hindi Burger", "price":41},
+            {"name":"Dana Burger", "price":44}
+        ],
+        "Ara Sıcak": [
+            {"name":"Patates Kızartması", "price":23},
+            {"name":"Patates Kroket", "price":23},
+            {"name":"Soğan Halkası", "price":23},
+            {"name":"Mac'n Cheese", "price":23},
+            {"name":"Peynir Topları", "price":23},
+            {"name":"Tavuk Kanat", "price":27}
+        ],
+        "İçecek": [
+            {"name":"Ayran", "price":8},
+            {"name":"Kola", "price":11},
+            {"name":"Sade Gazoz", "price":11},
+            {"name":"Portakallı Gazoz", "price":11},
+            {"name":"Sade Soda", "price":11}
+        ]
+    }
+}
